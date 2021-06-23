@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rahulkumarpatra
-- 🌱 I’m currently learning ...ELECTRONICS AND TELECOMMUNICATION
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...ELECTRONICS AND TELECOMMUNICATION ENGINEERING 
 - 📫 How to reach me ...rahulkumarpatra9777@gmail.com
 
 <!---
